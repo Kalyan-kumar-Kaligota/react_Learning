@@ -15,4 +15,4 @@ print("Employee Details:")
 for emp in employee:
     print("Name:", emp["name"], "Experience:", emp["experience"], "years", "Designation:", emp["designation"])
 
-    print(f"Name: {emp['name']}")
+    print(f"Employee {emp['name']} has {emp['experience']} years of experience.")
