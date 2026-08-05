@@ -122,8 +122,9 @@
 
 .profile_section {
     position: relative;
+    bottom: 25px;
     width: 420px;
-    height: 440px;
+    height: 400px;
     display: flex;
     align-items: center;
     justify-content: center;
