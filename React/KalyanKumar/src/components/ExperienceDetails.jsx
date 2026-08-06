@@ -16,7 +16,7 @@ const experienceData = [
 
 export const ExperienceDetails = () => {
   return (
-    <section className="experience_details_section mt-4">
+    <section className="experience_details_section mt-4" id="about">
       {experienceData.map((item) => {
         const Icon = item.icon;
 

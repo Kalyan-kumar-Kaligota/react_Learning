@@ -145,7 +145,8 @@
   border-radius: 50%;
   background: rgba(13, 25, 45, 0.95);
   color: #b8d8ff;
-  font-size: 26px;
+  font-size: 20px;
+  margin: 4px;
   cursor: pointer;
   transform: translateY(-50%);
   z-index: 5;

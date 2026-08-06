@@ -3,13 +3,13 @@ import JavascriptIcon from "@mui/icons-material/Javascript";
 import HtmlIcon from "@mui/icons-material/Html";
 import StorageIcon from "@mui/icons-material/Storage";
 import DataObjectIcon from "@mui/icons-material/DataObject";
-import CloudIcon from "@mui/icons-material/Cloud";
+import BuildIcon from "@mui/icons-material/Build";
 import PsychologyIcon from "@mui/icons-material/Psychology";
 import HubIcon from "@mui/icons-material/Hub";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import SecurityIcon from "@mui/icons-material/Security";
 import ApiIcon from "@mui/icons-material/Api";
-import MemoryIcon from "@mui/icons-material/Memory";
+import AutoAwesomeIcon from "@mui/icons-material/AutoAwesome";
 
 import "./SkillsAndProjects.css";
 
@@ -32,14 +32,14 @@ const skillCategories = [
     id: 3, title: "Database & Tools", type: "database",
     skills: [
       { name: "MySQL", icon: StorageIcon }, { name: "Oracle SQL", icon: StorageIcon }, { name: "MS SQL Server", icon: StorageIcon },
-      { name: "Git / GitHub", icon: GitHubIcon }, { name: "Docker", icon: MemoryIcon }, { name: "Azure / AWS", icon: CloudIcon },
+      { name: "Git / GitHub", icon: GitHubIcon }, { name: "Monetate", icon: AutoAwesomeIcon }, { name: "Maven", icon: BuildIcon },
     ],
   },
   {
-    id: 4, title: "AI & Data", type: "ai",
+    id: 4, title: "AI & Data (Learning)", type: "ai",
     skills: [
-      { name: "Python (Learning)", icon: CodeIcon }, { name: "Machine Learning", icon: PsychologyIcon }, { name: "Deep Learning", icon: PsychologyIcon },
-      { name: "GenAI / LLMs", icon: PsychologyIcon }, { name: "RAG (Learning)", icon: HubIcon }, { name: "Vector DB (Learning)", icon: StorageIcon },
+      { name: "Python ", icon: CodeIcon }, { name: "Machine Learning", icon: PsychologyIcon }, { name: "Deep Learning", icon: PsychologyIcon },
+      { name: "GenAI / LLMs", icon: PsychologyIcon }, { name: "RAG ", icon: HubIcon }, { name: "Vector DB ", icon: StorageIcon },
     ],
   },
 ];
@@ -73,7 +73,7 @@ export const SkillsAndProjects = () => {
           ))}
         </div>
       </section>
-      <div className="projects_container">
+      <div className="projects_container" id="projects">
         <h2>Projects</h2>
 
         <div className="projects_timeline">

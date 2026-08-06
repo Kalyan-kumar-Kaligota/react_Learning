@@ -25,7 +25,7 @@ export const ProjectsDetails = () => {
       title: "Employee Management",
       description:
         "Full-stack application for managing employees and operations.",
-      technologies: ["Angular", "Spring Boot"],
+      technologies: ["Java", "Spring Boot"],
       image: "https://trisept.widen.net/content/4bftyzffyk",
     },
     {

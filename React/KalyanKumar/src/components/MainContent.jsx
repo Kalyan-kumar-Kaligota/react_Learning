@@ -8,7 +8,7 @@ import DataObjectIcon from "@mui/icons-material/DataObject";
 import PsychologyIcon from "@mui/icons-material/Psychology";
 import TipsAndUpdatesIcon from "@mui/icons-material/TipsAndUpdates";
 
-import profileImage from '../assets/profile_final.png'
+import profileImage from "../assets/profile_final.png";
 
 import "./MainContent.css";
 
@@ -50,7 +50,11 @@ export const MainContent = () => {
         <div className="profile_section">
           <div className="profile_image_content">
             <div className="image_section">
-              <img src={profileImage} alt="Kalyan Kumar" className="profile_image" />
+              <img
+                src={profileImage}
+                alt="Kalyan Kumar"
+                className="profile_image"
+              />
             </div>
           </div>
 
@@ -67,35 +71,47 @@ export const MainContent = () => {
           </div>
 
           <div className="about_description">
-            <p>Full Stack Developer with 3.5+ years of experience building enterprise applications. Currently transitioning into AI
-              Engineering, exploring the power of LLMs, RAG, AI Agents and building intelligent solutions.</p>
+            <p>
+              Full Stack Developer with 3.5+ years of experience building, modernizing, and maintaining enterprise-scale web applications using Angular and Java Spring Boot. Specialized in Angular
+              architecture, state management, performance optimization, REST APIs, and Microservices.
+            </p>
           </div>
 
           <div className="about_skills">
             <div className="about_skill_item">
-              <div className="skill_icon_wrapper"><CodeIcon className="skill_icon" /></div>
+              <div className="skill_icon_wrapper">
+                <CodeIcon className="skill_icon" />
+              </div>
               <span>Angular & React Developer</span>
             </div>
 
             <div className="about_skill_item">
-              <div className="skill_icon_wrapper"><DataObjectIcon className="skill_icon" /></div>
+              <div className="skill_icon_wrapper">
+                <DataObjectIcon className="skill_icon" />
+              </div>
               <span>Java & Spring Boot Expert</span>
             </div>
 
             <div className="about_skill_item ai_skill">
-              <div className="skill_icon_wrapper"><PsychologyIcon className="skill_icon" /></div>
-              <span>AI & GenAI Enthusiast</span>
+              <div className="skill_icon_wrapper">
+                <PsychologyIcon className="skill_icon" />
+              </div>
+              <span>AI & GenAI Learner</span>
             </div>
 
             <div className="about_skill_item ai_skill">
-              <div className="skill_icon_wrapper"><TipsAndUpdatesIcon className="skill_icon" /></div>
+              <div className="skill_icon_wrapper">
+                <TipsAndUpdatesIcon className="skill_icon" />
+              </div>
               <span>Problem Solver</span>
             </div>
           </div>
 
           <div className="about_footer">
             <span className="footer_dot"></span>
-            <span className="footer_text">Let's build something amazing together! 🚀</span>
+            <span className="footer_text">
+              Let's build something amazing together! 🚀
+            </span>
           </div>
         </div>
       </div>
