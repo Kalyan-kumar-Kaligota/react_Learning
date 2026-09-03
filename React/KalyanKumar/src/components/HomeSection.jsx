@@ -3,6 +3,7 @@ import { ToggleButton, ToggleButtonGroup } from "@mui/material";
 import LightModeIcon from "@mui/icons-material/LightMode";
 import DarkModeIcon from "@mui/icons-material/DarkMode";
 import DownloadIcon from "@mui/icons-material/Download";
+import resumeFile from "../assets/kaligota_kalyan_kumar.docx";
 import "./HomeSection.css";
 
 const navLinks = [
@@ -64,7 +65,7 @@ export const HomeSection = () => {
               </div>
               <div className="download_resume_section">
                 <a
-                  href="/kaligota_kalyan_kumar.docx"
+                  href={resumeFile}
                   download="kaligota_kalyan_kumar.docx"
                   className="download_CV"
                 >
@@ -73,7 +74,7 @@ export const HomeSection = () => {
                 </a>
 
                 <a
-                  href="/kaligota_kalyan_kumar.docx"
+                  href={resumeFile}
                   download="kaligota_kalyan_kumar.docx"
                   className="download_btn"
                 >
