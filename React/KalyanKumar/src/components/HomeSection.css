@@ -178,6 +178,7 @@
     font-weight: 600;
     cursor: pointer;
     color: #fff;
+    text-decoration: none;
 
     @media (max-width: 600px) {
         display: none;
@@ -209,6 +210,7 @@
             0 0 14px rgba(168, 85, 247, 0.25);
         cursor: pointer;
         color: #fff;
+        text-decoration: none;
     }
 
     .download_resume_section .download_btn .download_icon {

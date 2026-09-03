@@ -63,15 +63,23 @@ export const HomeSection = () => {
                 </ToggleButtonGroup>
               </div>
               <div className="download_resume_section">
-                <button className="download_CV">
+                <a
+                  href="/kaligota_kalyan_kumar.docx"
+                  download="kaligota_kalyan_kumar.docx"
+                  className="download_CV"
+                >
                   <DownloadIcon className="download_icon" />
                   Download Resume
-                </button>
+                </a>
 
-                <button className="download_btn">
+                <a
+                  href="/kaligota_kalyan_kumar.docx"
+                  download="kaligota_kalyan_kumar.docx"
+                  className="download_btn"
+                >
                   {" "}
                   <DownloadIcon className="download_icon" />{" "}
-                </button>
+                </a>
               </div>
             </div>
           </div>
