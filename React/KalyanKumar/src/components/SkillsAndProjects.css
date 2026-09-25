@@ -331,3 +331,23 @@
     color: var(--text-h);
     border-top-color: rgba(100, 116, 139, 0.2);
 }
+
+[data-theme="light"] .project_badge.current {
+    color: #0f7a52;
+    border-color: #2ba775;
+    background: rgba(32, 155, 105, 0.14);
+}
+
+[data-theme="light"] .project_badge.earlier {
+    color: #ffffff;
+    border-color: #8c48bd;
+    background: #8c48bd;
+}
+
+[data-theme="light"] .project_date {
+    color: #0284c7;
+}
+
+[data-theme="light"] .view_experience span {
+    color: #0284c7;
+}
