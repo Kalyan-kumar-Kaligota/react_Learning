@@ -210,3 +210,68 @@
   }
 }
 
+/* ===== Day (light) mode ===== */
+[data-theme="light"] .projects_details_container {
+    background:
+        radial-gradient(circle at top right, rgba(0, 119, 255, 0.06), transparent 35%),
+        linear-gradient(135deg, #ffffff, #f5f8fd);
+    border-color: #cfe0f2;
+    box-shadow:
+        0 4px 20px rgba(0, 0, 0, 0.08),
+        inset 0 0 20px rgba(50, 130, 255, 0.02);
+    color: var(--text-h);
+}
+
+[data-theme="light"] .project_card {
+    background: linear-gradient(145deg, #ffffff, #f3f6fb);
+    border-color: rgba(100, 116, 139, 0.2);
+}
+
+[data-theme="light"] .project_card:hover {
+    border-color: rgba(74, 174, 255, 0.6);
+    box-shadow:
+        0 8px 25px rgba(0, 0, 0, 0.12),
+        0 0 15px rgba(50, 150, 255, 0.06);
+}
+
+[data-theme="light"] .project_image_wrapper {
+    background: #e9eef5;
+}
+
+[data-theme="light"] .project_content p {
+    color: #475569;
+}
+
+[data-theme="light"] .project_technologies span {
+    background: rgba(100, 116, 139, 0.14);
+    color: #334155;
+}
+
+[data-theme="light"] .project_live_button {
+    background: #eef4fb;
+    border-color: rgba(100, 160, 230, 0.4);
+    color: var(--text-h);
+}
+
+[data-theme="light"] .project_live_button:hover {
+    background: rgba(56, 189, 248, 0.15);
+    border-color: #42a5ff;
+    color: #0284c7;
+}
+
+[data-theme="light"] .carousel_button {
+    background: #ffffff;
+    border-color: rgba(100, 150, 220, 0.4);
+    color: #0284c7;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="light"] .carousel_button:hover {
+    background: #e9f0fa;
+}
+
+[data-theme="light"] .view_all_projects {
+    color: var(--text-h);
+    border-top-color: rgba(100, 116, 139, 0.15);
+}
+

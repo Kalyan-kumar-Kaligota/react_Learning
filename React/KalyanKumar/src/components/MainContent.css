@@ -379,3 +379,80 @@
     background: #38bdf8;
     box-shadow: 0 0 5px #38bdf8, 0 0 10px rgba(56, 189, 248, 0.6);
 }
+
+/* ===== Day (light) mode ===== */
+[data-theme="light"] .role_type_heading .role_content {
+    background: #eef4fb;
+    border-color: #c7d6e6;
+    box-shadow:
+        inset 0 0 6px rgba(56, 189, 248, 0.06),
+        0 2px 4px rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="light"] .contact_section .contact_me_section .contact_btn {
+    border-color: #d8dee9;
+    color: var(--text-h);
+}
+
+[data-theme="light"] .profile_image_content {
+    background:
+        linear-gradient(#ffffff, #ffffff) padding-box,
+        linear-gradient(135deg, #a855f7 0%, #6366f1 50%, #38bdf8 100%) border-box;
+    box-shadow:
+        0 0 15px rgba(168, 85, 247, 0.15),
+        0 0 25px rgba(56, 189, 248, 0.1),
+        inset 0 0 30px rgba(56, 189, 248, 0.04);
+}
+
+[data-theme="light"] .default_profile_icon {
+    color: #94a3b8;
+}
+
+[data-theme="light"] .years_of_Experience {
+    background: rgba(255, 255, 255, 0.95);
+    border-color: #cbd5e1;
+    box-shadow:
+        0 4px 12px rgba(0, 0, 0, 0.1),
+        inset 0 0 15px rgba(56, 189, 248, 0.04);
+}
+
+[data-theme="light"] .years_of_Experience .experience-text {
+    color: var(--text-h);
+}
+
+[data-theme="light"] .about_me_section {
+    background: linear-gradient(135deg, #ffffff, #f5f8fd);
+    border-color: #dbe3ee;
+    box-shadow:
+        inset 0 0 20px rgba(56, 189, 248, 0.02),
+        0 4px 15px rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="light"] .about_me_section .about_title,
+[data-theme="light"] .about_me_section .footer_text {
+    color: var(--text-h);
+}
+
+[data-theme="light"] .about_me_section .about_skill_item {
+    background: linear-gradient(90deg, #eef4fb, #f3f1fb);
+    border-color: rgba(100, 116, 139, 0.18);
+    color: var(--text-h);
+}
+
+[data-theme="light"] .about_me_section .about_skill_item:hover {
+    border-color: rgba(56, 189, 248, 0.45);
+    background: linear-gradient(90deg, #e4eefb, #ece6fb);
+}
+
+[data-theme="light"] .about_me_section .skill_icon_wrapper {
+    background: rgba(56, 189, 248, 0.12);
+}
+
+[data-theme="light"] .about_me_section .ai_skill .skill_icon_wrapper {
+    background: rgba(168, 85, 247, 0.12);
+}
+
+[data-theme="light"] .about_me_section .about_footer {
+    background: linear-gradient(90deg, #eaf3fb, #f1ebfb);
+    border-color: rgba(100, 116, 139, 0.2);
+}

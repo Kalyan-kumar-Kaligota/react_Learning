@@ -218,3 +218,33 @@
         height: 20px;
     }
 }
+
+/* ===== Day (light) mode ===== */
+[data-theme="light"] .home__content .tab__content {
+    border-color: #dde3ec;
+    background: #ffffff;
+}
+
+[data-theme="light"] .profileContent .profile_Logo {
+    background:
+        linear-gradient(135deg, #0284c7, #9333ea) text,
+        linear-gradient(#ffffff, #ffffff) padding-box,
+        linear-gradient(135deg, #38bdf8, #a855f7) border-box;
+    -webkit-background-clip: text, padding-box, border-box;
+    background-clip: text, padding-box, border-box;
+    box-shadow:
+        0 0 6px rgba(56, 189, 248, 0.25),
+        0 0 12px rgba(168, 85, 247, 0.18);
+}
+
+[data-theme="light"] .home__content .tab__content .tabSection_links .socialLink.active {
+    color: #0284c7;
+}
+
+[data-theme="light"] .downloadContent_Section .day_Night_Mode .toggle_btn_group {
+    border-color: #cbd5e1;
+}
+
+[data-theme="light"] .downloadContent_Section .day_Night_Mode .toggle_btn:hover {
+    background-color: rgba(56, 189, 248, 0.12);
+}

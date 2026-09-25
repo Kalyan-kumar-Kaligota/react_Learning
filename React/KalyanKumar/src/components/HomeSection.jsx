@@ -38,9 +38,15 @@ export const HomeSection = () => {
 
             <div className="tabSection_links">
               {navLinks.map((link) => (
-                <a key={link.href} href={`#${link.href}`}
-                  className={`socialLink ${ activeTab === link.href ? "active" : "" }`}
-                  onClick={() => setActiveTab(link.href)}> {link.label} </a>
+                <a
+                  key={link.href}
+                  href={`#${link.href}`}
+                  className={`socialLink ${activeTab === link.href ? "active" : ""}`}
+                  onClick={() => setActiveTab(link.href)}
+                >
+                  {" "}
+                  {link.label}{" "}
+                </a>
               ))}
             </div>
 
