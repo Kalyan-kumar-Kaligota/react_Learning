@@ -1,0 +1,836 @@
+{
+  "TrendingVacationDest": [
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/ANU.jpg",
+      "city": {
+        "__type": "",
+        "C": "ANU",
+        "SC": null,
+        "D": "Antigua",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 17.1367,
+        "LNG": -61.7927
+      },
+      "nights": 3,
+      "date": "20261016",
+      "price": 1116.355,
+      "is_active": true
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/AUA.jpg",
+      "city": {
+        "__type": "",
+        "C": "AUA",
+        "SC": null,
+        "D": "Aruba",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 12.5014,
+        "LNG": -70.0152
+      },
+      "nights": 3,
+      "date": "20261114",
+      "price": 872.985,
+      "is_active": true
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/Default.jpg",
+      "city": {
+        "__type": "",
+        "C": "AXA",
+        "SC": null,
+        "D": "Anguilla",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 18.2048,
+        "LNG": -63.0551
+      },
+      "nights": 3,
+      "date": "20261102",
+      "price": 1008.965,
+      "is_active": false
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/Default.jpg",
+      "city": {
+        "__type": "",
+        "C": "BGI",
+        "SC": null,
+        "D": "Barbados",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 13.0746,
+        "LNG": -59.4925
+      },
+      "nights": 3,
+      "date": "20270802",
+      "price": 957.39,
+      "is_active": false
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/Default.jpg",
+      "city": {
+        "__type": "",
+        "C": "BZE",
+        "SC": null,
+        "D": "Belize, Belize City",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 17.5391,
+        "LNG": -88.3082
+      },
+      "nights": 3,
+      "date": "20261204",
+      "price": 672.355,
+      "is_active": false
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/Default.jpg",
+      "city": {
+        "__type": "",
+        "C": "CTG",
+        "SC": null,
+        "D": "Cartagena",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 10.4424,
+        "LNG": -75.513
+      },
+      "nights": 4,
+      "date": "20270131",
+      "price": 417.12,
+      "is_active": false
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/CUN.jpg",
+      "city": {
+        "__type": "",
+        "C": "CUN",
+        "SC": null,
+        "D": "Cancun - Cancun AND Riviera Maya",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 21.0365,
+        "LNG": -86.8771
+      },
+      "nights": 4,
+      "date": "20261129",
+      "price": 493.94,
+      "is_active": true
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/Default.jpg",
+      "city": {
+        "__type": "",
+        "C": "CUR",
+        "SC": null,
+        "D": "Curacao",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 12.1889,
+        "LNG": -68.9598
+      },
+      "nights": 3,
+      "date": "20261115",
+      "price": 923.155,
+      "is_active": false
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/CZM.jpg",
+      "city": {
+        "__type": "",
+        "C": "CZM",
+        "SC": null,
+        "D": "Cozumel",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 20.5224,
+        "LNG": -86.9256
+      },
+      "nights": 5,
+      "date": "20261208",
+      "price": 925.35,
+      "is_active": true
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/Default.jpg",
+      "city": {
+        "__type": "",
+        "C": "GCM",
+        "SC": null,
+        "D": "Grand Cayman",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 19.2928,
+        "LNG": -81.3577
+      },
+      "nights": 4,
+      "date": "20261006",
+      "price": 866.67,
+      "is_active": false
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/Default.jpg",
+      "city": {
+        "__type": "",
+        "C": "LIR",
+        "SC": null,
+        "D": "Costa Rica, Liberia",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 10.5933,
+        "LNG": -85.5444
+      },
+      "nights": 3,
+      "date": "20270201",
+      "price": 651.58,
+      "is_active": false
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/Default.jpg",
+      "city": {
+        "__type": "",
+        "C": "LRM",
+        "SC": null,
+        "D": "Dominican Republic, La Romana",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 18.4507,
+        "LNG": -68.9118
+      },
+      "nights": 3,
+      "date": "20261102",
+      "price": 670.225,
+      "is_active": false
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/Default.jpg",
+      "city": {
+        "__type": "",
+        "C": "MBJ",
+        "SC": null,
+        "D": "Jamaica, Montego Bay",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 18.5037,
+        "LNG": -77.9134
+      },
+      "nights": 4,
+      "date": "20261018",
+      "price": 552.25,
+      "is_active": false
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/NAS.jpg",
+      "city": {
+        "__type": "",
+        "C": "NAS",
+        "SC": null,
+        "D": "Nassau/Paradise Island - Nassau, Bahamas",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 25.039,
+        "LNG": -77.4662
+      },
+      "nights": 3,
+      "date": "20261201",
+      "price": 710.445,
+      "is_active": true
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/Default.jpg",
+      "city": {
+        "__type": "",
+        "C": "PLS",
+        "SC": null,
+        "D": "Turks and Caicos",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 21.7736,
+        "LNG": -72.2659
+      },
+      "nights": 3,
+      "date": "20261026",
+      "price": 1119.03,
+      "is_active": false
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/Default.jpg",
+      "city": {
+        "__type": "",
+        "C": "POP",
+        "SC": null,
+        "D": "Dominican Republic, Puerto Plata",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 19.7579,
+        "LNG": -70.57
+      },
+      "nights": 4,
+      "date": "20270507",
+      "price": 924.185,
+      "is_active": false
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/Default.jpg",
+      "city": {
+        "__type": "",
+        "C": "PUJ",
+        "SC": null,
+        "D": "Dominican Republic, Punta Cana",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 18.5674,
+        "LNG": -68.3634
+      },
+      "nights": 5,
+      "date": "20261207",
+      "price": 533.89,
+      "is_active": false
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/PVR.jpg",
+      "city": {
+        "__type": "",
+        "C": "PVR",
+        "SC": null,
+        "D": "Puerto Vallarta - Riviera Nayarit",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 20.6801,
+        "LNG": -105.254
+      },
+      "nights": 4,
+      "date": "20261013",
+      "price": 605.05,
+      "is_active": true
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/Default.jpg",
+      "city": {
+        "__type": "",
+        "C": "SDQ",
+        "SC": null,
+        "D": "Dominican Republic, Santo Domingo",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 18.4297,
+        "LNG": -69.6689
+      },
+      "nights": 4,
+      "date": "20261017",
+      "price": 627.87,
+      "is_active": false
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/SJD.jpg",
+      "city": {
+        "__type": "",
+        "C": "SJD",
+        "SC": null,
+        "D": "Los Cabos",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 23.1518,
+        "LNG": -109.721
+      },
+      "nights": 4,
+      "date": "20270214",
+      "price": 602.565,
+      "is_active": true
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/Default.jpg",
+      "city": {
+        "__type": "",
+        "C": "SJO",
+        "SC": null,
+        "D": "Costa Rica, San Jose",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 9.99386,
+        "LNG": -84.2088
+      },
+      "nights": 4,
+      "date": "20261024",
+      "price": 582.8,
+      "is_active": false
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/SJU.jpg",
+      "city": {
+        "__type": "",
+        "C": "SJU",
+        "SC": null,
+        "D": "Puerto Rico, San Juan",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 18.4394,
+        "LNG": -66.0018
+      },
+      "nights": 3,
+      "date": "20261019",
+      "price": 507.105,
+      "is_active": true
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/Default.jpg",
+      "city": {
+        "__type": "",
+        "C": "STI",
+        "SC": null,
+        "D": "Dominican Republic, Santiago",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 19.4061,
+        "LNG": -70.6047
+      },
+      "nights": 4,
+      "date": "20261101",
+      "price": 633.07,
+      "is_active": false
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/Default.jpg",
+      "city": {
+        "__type": "",
+        "C": "STT",
+        "SC": null,
+        "D": "St. Thomas",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 18.3373,
+        "LNG": -64.9734
+      },
+      "nights": 3,
+      "date": "20270202",
+      "price": 819.41,
+      "is_active": false
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/Default.jpg",
+      "city": {
+        "__type": "",
+        "C": "SXM",
+        "SC": null,
+        "D": "St. Martin/St. Maarten",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 18.041,
+        "LNG": -63.1089
+      },
+      "nights": 3,
+      "date": "20261102",
+      "price": 880.36,
+      "is_active": false
+    },
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/Default.jpg",
+      "city": {
+        "__type": "",
+        "C": "UVF",
+        "SC": null,
+        "D": "St. Lucia",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 13.7332,
+        "LNG": -60.9526
+      },
+      "nights": 3,
+      "date": "20261206",
+      "price": 909.615,
+      "is_active": false
+    }
+  ],
+  "TopPickPackages": [
+    {
+      "pkgid": "AH01",
+      "pcid": "9",
+      "pid": "B39E0454A95C993BD9388D2605E035A2",
+      "d": "ANU",
+      "dn": "Antigua",
+      "n": 3,
+      "hotel": {
+        "hc": "37913",
+        "r": 3,
+        "rsc": "HBSHotel",
+        "d": "",
+        "t": [-1000, 1, 2, 6, 10],
+        "th": "-1000,1,2,6,10"
+      },
+      "i": {
+        "alt": "Jolly Beach Resort & Spa - All Inclusive",
+        "href": "",
+        "src": "trisept.widen.net/content/370yotxryi?w=100&h=100&crop=yes"
+      },
+      "pr": 99999,
+      "td": [
+        {
+          "d": "20261016",
+          "n": 3,
+          "p": 1116.355,
+          "olos": 1,
+          "oatd": 443
+        }
+      ],
+      "cft": "",
+      "t": null,
+      "hb": ""
+    },
+    {
+      "pkgid": "AH01",
+      "pcid": "31",
+      "pid": "05C8FEA99FB5E321BD06D68A1E99A141",
+      "d": "AUA",
+      "dn": "Aruba",
+      "n": 3,
+      "hotel": {
+        "hc": "16168897",
+        "r": 3.5,
+        "rsc": "TravelscapeHotel",
+        "d": "",
+        "t": [-1],
+        "th": ""
+      },
+      "i": {
+        "alt": "Modern Hotel Aruba",
+        "href": "",
+        "src": "trisept.widen.net/content/m9plvhgtll?w=100&h=100&crop=yes"
+      },
+      "pr": 99999,
+      "td": [
+        {
+          "d": "20261114",
+          "n": 3,
+          "p": 872.985,
+          "olos": 1,
+          "oatd": 750
+        }
+      ],
+      "cft": "",
+      "t": null,
+      "hb": ""
+    },
+    {
+      "pkgid": "AH01",
+      "pcid": "1834",
+      "pid": "F31D12B5D3BECA5366461C00A75A40E2",
+      "d": "CUN",
+      "dn": "Cancun - Cancun AND Riviera Maya",
+      "n": 4,
+      "hotel": {
+        "hc": "83554",
+        "r": 5,
+        "rsc": "HBSHotel",
+        "d": "",
+        "t": [-1],
+        "th": ""
+      },
+      "i": {
+        "alt": "Mystique Holbox by Royalton",
+        "href": "",
+        "src": "trisept.widen.net/content/rkyrrcrynl?w=100&h=100&crop=yes"
+      },
+      "pr": 99999,
+      "td": [
+        {
+          "d": "20261129",
+          "n": 4,
+          "p": 493.94,
+          "olos": 1,
+          "oatd": 595
+        }
+      ],
+      "cft": "",
+      "t": null,
+      "hb": ""
+    },
+    {
+      "pkgid": "AH01",
+      "pcid": "3293",
+      "pid": "290A89EA4E42A2D13E7C4A95A400CA67",
+      "d": "CZM",
+      "dn": "Cozumel",
+      "n": 5,
+      "hotel": {
+        "hc": "CZMFINN",
+        "r": 3,
+        "rsc": "LtmsHotel",
+        "d": "",
+        "t": [3, 4, 5, 6, 10, 11, 14, 16, 21],
+        "th": "3,4,5,6,10,11,14,16,21"
+      },
+      "i": {
+        "alt": "Cozumel Hotel & Resort - European Plan",
+        "href": "",
+        "src": "trisept.widen.net/content/djupbzyund?w=100&h=100&crop=yes"
+      },
+      "pr": 99999,
+      "td": [
+        {
+          "d": "20261208",
+          "n": 5,
+          "p": 925.35,
+          "olos": 1,
+          "oatd": 727
+        }
+      ],
+      "cft": "",
+      "t": null,
+      "hb": ""
+    },
+    {
+      "pkgid": "AH01",
+      "pcid": "790",
+      "pid": "5DF762F3729D5D43A2CEC0530F07B926",
+      "d": "NAS",
+      "dn": "Nassau/Paradise Island - Nassau, Bahamas",
+      "n": 3,
+      "hotel": {
+        "hc": "CY;NASCY",
+        "r": 3,
+        "rsc": "PegasusHotel",
+        "d": "",
+        "t": [-1],
+        "th": ""
+      },
+      "i": {
+        "alt": "Courtyard by Marriott Nassau Downtown Junkanoo Beach",
+        "href": "",
+        "src": "trisept.widen.net/content/kwtfc29koo?w=100&h=100&crop=yes"
+      },
+      "pr": 1336,
+      "td": [
+        {
+          "d": "20261201",
+          "n": 3,
+          "p": 710.445,
+          "olos": 1,
+          "oatd": 395
+        }
+      ],
+      "cft": "",
+      "t": null,
+      "hb": "Marriott"
+    },
+    {
+      "pkgid": "AH01",
+      "pcid": "2318",
+      "pid": "CB8AB7B09DDB34B6A2871AD96D320F58",
+      "d": "PVR",
+      "dn": "Puerto Vallarta - Riviera Nayarit",
+      "n": 4,
+      "hotel": {
+        "hc": "HI;PVRIF",
+        "r": 3,
+        "rsc": "PegasusHotel",
+        "d": "",
+        "t": [-1],
+        "th": ""
+      },
+      "i": {
+        "alt": "Holiday Inn & Suites PUERTO VALLARTA MARINA & GOLF by IHG",
+        "href": "",
+        "src": "trisept.widen.net/content/anrmuanuop?w=100&h=100&crop=yes"
+      },
+      "pr": 99999,
+      "td": [
+        {
+          "d": "20261013",
+          "n": 4,
+          "p": 605.05,
+          "olos": 1,
+          "oatd": 389
+        }
+      ],
+      "cft": "",
+      "t": null,
+      "hb": ""
+    },
+    {
+      "pkgid": "AH01",
+      "pcid": "2378",
+      "pid": "60D2B8EADADCAB54FA9B71F8B792122B",
+      "d": "SJD",
+      "dn": "Los Cabos",
+      "n": 4,
+      "hotel": {
+        "hc": "541945",
+        "r": 3,
+        "rsc": "TravelscapeHotel",
+        "d": "",
+        "t": [-1],
+        "th": ""
+      },
+      "i": {
+        "alt": "Park Royal Homestay Los Cabos",
+        "href": "",
+        "src": "trisept.widen.net/content/7builtgkf4?w=100&h=100&crop=yes"
+      },
+      "pr": 2749,
+      "td": [
+        {
+          "d": "20270214",
+          "n": 4,
+          "p": 602.565,
+          "olos": 0,
+          "oatd": 291
+        }
+      ],
+      "cft": "",
+      "t": null,
+      "hb": "Park Royal Hotels"
+    },
+    {
+      "pkgid": "AH01",
+      "pcid": "1170",
+      "pid": "90E28DB02E772B9F1B8F9C3EDF7539BC",
+      "d": "SJU",
+      "dn": "Puerto Rico, San Juan",
+      "n": 3,
+      "hotel": {
+        "hc": "43634205",
+        "r": 3.5,
+        "rsc": "TravelscapeHotel",
+        "d": "",
+        "t": [-1],
+        "th": ""
+      },
+      "i": {
+        "alt": "Costa Bahia Hotel Paseo Caribe",
+        "href": "",
+        "src": "trisept.widen.net/content/0z3uacnhoj?w=100&h=100&crop=yes"
+      },
+      "pr": 2356,
+      "td": [
+        {
+          "d": "20261019",
+          "n": 3,
+          "p": 507.105,
+          "olos": 0,
+          "oatd": 289
+        }
+      ],
+      "cft": "",
+      "t": null,
+      "hb": ""
+    }
+  ],
+  "CharterTrendingVacationDest": [
+    {
+      "dest_text": "Amazing vacation Package Deals",
+      "dest_img": "https://beachfinder.alpha.cheapcaribbean.com/images/CUN.jpg",
+      "city": {
+        "__type": "",
+        "C": "CUN",
+        "SC": null,
+        "D": "Cancun - Cancun AND Riviera Maya",
+        "DP": 0,
+        "R": false,
+        "T": 0,
+        "LAT": 21.0365,
+        "LNG": -86.8771
+      },
+      "nights": 4,
+      "date": "20261017",
+      "price": 1250.13,
+      "is_active": true
+    }
+  ],
+  "CharterTopPickPackages": [
+    {
+      "pkgid": "AH01",
+      "pcid": "7140",
+      "pid": "B0D4EB508DC12E21E89AFE32CD023F73",
+      "d": "CUN",
+      "dn": "Cancun - Cancun AND Riviera Maya",
+      "n": 4,
+      "hotel": {
+        "hc": "CUNCU",
+        "r": 4,
+        "rsc": "DerbysoftGoHotel",
+        "d": null,
+        "t": [-1],
+        "th": "5"
+      },
+      "i": {
+        "alt": "The Fives Downtown Hotel & Residences, Curio Collection by Hilton",
+        "href": "",
+        "src": ""
+      },
+      "pr": 99999,
+      "td": [
+        {
+          "d": "20261017",
+          "n": 4,
+          "p": 1250.13,
+          "olos": 0,
+          "oatd": 194
+        }
+      ],
+      "cft": null,
+      "t": "The Fives Downtown Hotel & Residences, Curio Collection by Hilton",
+      "hb": ""
+    }
+  ],
+  "hb": [
+    "Aqua",
+    "Couples Resorts",
+    "Aston",
+    "AIC Hotel Group"
+  ],
+  "SyncDateTime": "09-16-2026 07:37:02 AM"
+}
